@@ -1,0 +1,10 @@
+
+B站发送弹幕指南
+
+第一步：登录B站，https://account.bilibili.com/home/userInfo刷新，抓取cookie
+
+第二步：发送一条弹幕，抓取headers和data数据
+
+第三步：url链接在request url里面
+
+第四步：将抓取的cookie加到headers里面，完事。
